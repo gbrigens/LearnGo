@@ -21,4 +21,4 @@ func main() {
 
 }
 
-// Package resourse link - pkg.go.dev
+// Package resource link - pkg.go.dev

@@ -22,3 +22,7 @@ func main() {
 }
 
 // Package resource link - pkg.go.dev
+
+// Memmory
+// New() Zero storage
+// Make No Zero storage

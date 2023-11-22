@@ -6,4 +6,5 @@ use (
     ./03UserInput
     ./04Conversion
     ./05Time
+    ./06Pointers
 )

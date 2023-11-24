@@ -9,4 +9,9 @@ use (
     ./06Pointers
     ./07Array
     ./08Slices
+    ./09Map
+    ./10Struct
+    ./11ControlFlow
+    ./12Switch
+    ./13loops
 )

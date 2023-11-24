@@ -14,4 +14,10 @@ use (
     ./11ControlFlow
     ./12Switch
     ./13loops
+    ./14Functions
+    ./15Methods
+    ./16Defer
+    ./17Files
+    ./18WebRequest
+    ./19URL
 )
